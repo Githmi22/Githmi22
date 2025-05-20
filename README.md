@@ -24,13 +24,10 @@
   <img width="12" />
     <img src= "	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"          height="50" alt="R"/>
   <img width="12" />
-    <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="SQL"/>
+    <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
+" height="50" alt="SQL"/>
   <img width="12" />
       <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/>
-  <img width="12" />
-      <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"/>
-  <img width="12" />
-      <img src= "" height="50" alt="Java"/>
   <img width="12" />  
 </div>
 <be>
