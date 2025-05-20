@@ -19,10 +19,8 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoWidth=30)  
-  🔗 [Python](https://www.python.org/)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoWidth=30)   
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoWidth=30)  
-  🔗 [R Language](https://www.r-project.org/)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoWidth=30)  
   🔗 [SQL (PostgreSQL)](https://www.postgresql.org/)  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoWidth=30)  
