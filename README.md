@@ -1,7 +1,7 @@
 ## Hi there, I'm Githmi Punchihewa 👋
 
 <div align="center">
-  <img height="200" src=" https://images.app.goo.gl/rhcHdEdA9mrk1yib6 "  />
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzloMDFmMGtyeTRsNjUxOHU2ZjNsMWd2M2V0c2N2eWllZTc5Nnk2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8PyTvI5EOu9LbAm8uS/giphy.gif"  />
 </div>
 
 🎓 BSc in Applied Data Science Communication at KDU  
