@@ -34,7 +34,8 @@
 <div align= "left">
   <img src= "https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50"       alt="Hugging Face"/>
   <img width="12" />
-
+  <img src= "https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg"    height="50" alt="Streanlit"/>
+  <img width="12" />
 
   
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoWidth=30)  
