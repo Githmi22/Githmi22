@@ -29,8 +29,7 @@
 </div>
 
 
-### 
-📦 Libraries & Packages
+## 📦 Libraries & Packages
 <div align= "left">
   <img src= "https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50"       alt="Hugging Face"/>
   <img width="12" />
@@ -45,8 +44,7 @@
     <img src= "https://numpy.org/images/logo.svg" height="50" alt="Numpy"/>
   <img width="12" />
 
-### 
-🌐 Online Platforms 
+## 🌐 Online Platforms 
 <div align = "left">
   <img src= "https://www.tangentia.com/wp-content/themes/twentysixteen/images/digital/partners/powerapps-logo.png" height = "50" alt= "PowerApps"
 <img width = "150">
