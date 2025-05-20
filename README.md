@@ -15,14 +15,15 @@
 - 🔍 [CV Reviewer & Cover Letter Generator](https://github.com/Githmi22/CV_MATE.git)
 
 ---
-
-## 🛠️ Tech Stack
+<hr>
+<h3 align="left"> <b>🛠️ Tech Stack </b></h3>
 
 ### 💻 Languages  
 <div align="left">
-  <img src= "http://www.w3.org/2000/svg" height="50" alt="Python" />
+  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"       height="50" alt="Python"/>
   <img width="12" />
 </div>
+<be>
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoWidth=30)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoWidth=30)  
