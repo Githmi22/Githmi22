@@ -28,8 +28,8 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/githmi-punchihewa-36a4b8283/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github)](https://github.com/Githmi22/portfolio.git)
 
 <!--
 **Githmi22/Githmi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
