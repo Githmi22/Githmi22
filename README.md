@@ -12,6 +12,9 @@
 ---
 
 ## 🚀 Projects
+<div align="left">
+  <img src= "https://saasaitools.com/wp-content/uploads/2023/12/social-icon.png" height="50" alt="Python"/>
+  <img width="12" />
 - 🔍 [CV Reviewer & Cover Letter Generator](https://github.com/Githmi22/CV_MATE.git)
 
 ---
