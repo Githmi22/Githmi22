@@ -36,7 +36,7 @@
   <img width="12" />
   <img src= "https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg"    height="50" alt="Streanlit"/>
   <img width="12" />
-  <img src= "https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg"               height="50" alt="OpenAI"/>
+  <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8fNJhry-1kuEy4XR7unXxJRaRO8vDCtI-Ig&s" height="50" alt="OpenAI"/>
   <img width="12" />
     <img src= "	https://matplotlib.org/_static/logo2.svg" height="50" alt="Matplotlib"/>
   <img width="12" />
