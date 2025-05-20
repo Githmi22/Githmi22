@@ -18,6 +18,9 @@
 <hr>
 <h3 align="left"> <b>🛠️ Tech Stack </b></h3>
 
+---
+  
+
 ## 💻 Languages  
 <div align="left">
   <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"       height="50" alt="Python"/>
@@ -28,7 +31,8 @@
   <img width="12" />
 </div>
 
-
+---
+  
 ## 📦 Libraries & Packages
 <div align= "left">
   <img src= "https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50"       alt="Hugging Face"/>
@@ -44,6 +48,8 @@
     <img src= "https://numpy.org/images/logo.svg" height="50" alt="Numpy"/>
   <img width="12" />
 
+---
+  
 ## 🌐 Online Platforms 
 <div align = "left">
   <img src= "https://www.tangentia.com/wp-content/themes/twentysixteen/images/digital/partners/powerapps-logo.png" height = "50" alt= "PowerApps"
@@ -53,6 +59,9 @@
   <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6PqNZ4c_rChY0j997I36SZvJsaAksdVbv5Q&s" height = "50" alt= "PowerApps"
 <img width = "150"> 
 <be>
+  
+---
+  
 
 ## 📈 GitHub Stats
 ![Githmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Githmi22&show_icons=true&theme=radical)
