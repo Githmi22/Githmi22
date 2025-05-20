@@ -29,12 +29,14 @@
 </div>
 <be>
 
-
----
-
-### 🧰 Platforms & IDEs  
-      <img src= "" height="50" alt="Java"/>
+### 
+🧰 Platforms & IDEs  
+<div align= "left">
+  <img src= "https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50"       alt="Hugging Face"/>
   <img width="12" />
+
+
+  
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoWidth=30)  
   🔗 [Google Colab](https://colab.research.google.com/)  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoWidth=30)  
