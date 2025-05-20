@@ -17,11 +17,66 @@
 ---
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![LangChain](https://img.shields.io/badge/LangChain-3D3D3D?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface)
+
+### 💻 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoWidth=30)  
+  🔗 [Python](https://www.python.org/)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoWidth=30)  
+  🔗 [R Language](https://www.r-project.org/)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoWidth=30)  
+  🔗 [SQL (PostgreSQL)](https://www.postgresql.org/)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoWidth=30)  
+  🔗 [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoWidth=30)  
+  🔗 [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+---
+
+### 🧰 Platforms & IDEs  
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoWidth=30)  
+  🔗 [Google Colab](https://colab.research.google.com/)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoWidth=30)  
+  🔗 [Visual Studio Code](https://code.visualstudio.com/)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoWidth=30)  
+  🔗 [Jupyter Notebooks](https://jupyter.org/)  
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoWidth=30)  
+  🔗 [RStudio](https://posit.co/download/rstudio-desktop/)  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoWidth=30)  
+  🔗 [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoWidth=30)  
+  🔗 [Power BI](https://powerbi.microsoft.com/)  
+![Power BI Report Builder](https://img.shields.io/badge/Report_Builder-000000?style=for-the-badge&logo=powerbi&logoWidth=30)  
+  🔗 [Power BI Report Builder](https://learn.microsoft.com/en-us/power-bi/paginated-reports/report-builder-power-bi)
+
+---
+
+### 📦 Libraries & Packages  
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoWidth=30)  
+  🔗 [Hugging Face](https://huggingface.co/)  
+![LangChain](https://img.shields.io/badge/LangChain-3D3D3D?style=for-the-badge&logo=python&logoColor=white&logoWidth=30)  
+  🔗 [LangChain](https://www.langchain.com/)  
+![Transformers](https://img.shields.io/badge/Transformers-FF6F61?style=for-the-badge&logo=python&logoWidth=30)  
+  🔗 [Transformers (Hugging Face)](https://huggingface.co/docs/transformers/index)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoWidth=30)  
+  🔗 [Streamlit](https://streamlit.io/)  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoWidth=30)  
+  🔗 [OpenAI](https://platform.openai.com/)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoWidth=30)  
+  🔗 [Matplotlib](https://matplotlib.org/)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoWidth=30)  
+  🔗 [Pandas](https://pandas.pydata.org/)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoWidth=30)  
+  🔗 [NumPy](https://numpy.org/)
+
+---
+
+### 🌐 Online Platforms  
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoWidth=30)  
+  🔗 [Microsoft Power Apps](https://powerapps.microsoft.com/)  
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoWidth=30)  
+  🔗 [Power Automate](https://powerautomate.microsoft.com/)  
+![Power Pages](https://img.shields.io/badge/Power_Pages-5A4FCF?style=for-the-badge&logo=microsoft&logoWidth=30)  
+  🔗 [Power Pages](https://powerpages.microsoft.com/)
 
 ---
 
