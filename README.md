@@ -20,7 +20,7 @@
 
 ### 💻 Languages  
 <div align="left">
-  <img src="[http://www.w3.org/2000/svg" height="50" alt="Python" />
+  <img src= "http://www.w3.org/2000/svg" height="50" alt="Python" />
   <img width="12" />
 </div>
 
