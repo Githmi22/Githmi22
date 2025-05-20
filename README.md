@@ -38,9 +38,9 @@
   <img width="12" />
   <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8fNJhry-1kuEy4XR7unXxJRaRO8vDCtI-Ig&s" height="50" alt="OpenAI"/>
   <img width="12" />
-    <img src= "	https://matplotlib.org/_static/logo2.svg" height="50" alt="Matplotlib"/>
+    <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtD77NqsHehyobngnMQaSRAQc41uDJq-OyQ&s" height="50" alt="Matplotlib"/>
   <img width="12" />
-    <img src= "	https://pandas.pydata.org/static/img/pandas_mark.svg" height="50" alt="Pandas"/>
+    <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSu9xFbA6COOd9Wq-koFEoAFD7wpFgbvdz6Q&s" height="50" alt="Pandas"/>
   <img width="12" />
     <img src= "https://numpy.org/images/logo.svg" height="50" alt="Numpy"/>
   <img width="12" />
