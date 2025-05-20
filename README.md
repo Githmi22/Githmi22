@@ -49,9 +49,9 @@
 🌐 Online Platforms 
 <div align = "left">
   <img src= "https://www.tangentia.com/wp-content/themes/twentysixteen/images/digital/partners/powerapps-logo.png" height = "50" alt= "PowerApps"
-<img width = "40">
+<img width = "100">
   <img src= "https://roommanager.com/wp-content/uploads/2023/03/Power-Automate-Logo.png" height = "50" alt= "Power Automate"
-<img width = "40">
+<img width = "100">
   
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoWidth=30)  
   🔗 [Microsoft Power Apps](https://powerapps.microsoft.com/)  
