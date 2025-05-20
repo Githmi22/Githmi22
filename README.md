@@ -28,7 +28,7 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://linkedin.com/in/githmi-punchihewa-36a4b8283/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-link)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github)](https://yourportfolio.com)
 
 <!--
