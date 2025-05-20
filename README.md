@@ -13,7 +13,7 @@
 ---
 
 ## 🛠️ Tech Stack
-![Python](https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 ![LangChain](https://img.shields.io/badge/LangChain-3D3D3D?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
