@@ -22,23 +22,25 @@
 <div align="left">
   <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"       height="50" alt="Python"/>
   <img width="12" />
-    <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"          height="50" alt="Java"/>
+    <img src= "	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"          height="50" alt="R"/>
   <img width="12" />
-  
+    <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="SQL"/>
+  <img width="12" />
+      <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/>
+  <img width="12" />
+      <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS"/>
+  <img width="12" />
+      <img src= "" height="50" alt="Java"/>
+  <img width="12" />  
 </div>
 <be>
 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoWidth=30)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoWidth=30)  
-  🔗 [SQL (PostgreSQL)](https://www.postgresql.org/)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoWidth=30)  
-  🔗 [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoWidth=30)  
-  🔗 [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ---
 
 ### 🧰 Platforms & IDEs  
+      <img src= "" height="50" alt="Java"/>
+  <img width="12" />
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoWidth=30)  
   🔗 [Google Colab](https://colab.research.google.com/)  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoWidth=30)  
