@@ -22,8 +22,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Githmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=githmi-punchihewa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githmi-punchihewa&layout=compact&theme=radical)
+![Githmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Githmi22&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Githmi22&layout=compact&theme=radical)
 
 ---
 
