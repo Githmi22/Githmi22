@@ -27,7 +27,7 @@
     <img src= "https://brandlogos.net/wp-content/uploads/2025/03/microsoft_sql_server-logo_brandlogos.net_wykhq-512x512.png" height="50" alt="SQL"/>
   <img width="12" />
 </div>
-<be>
+
 
 ### 
 📦 Libraries & Packages
@@ -49,18 +49,12 @@
 🌐 Online Platforms 
 <div align = "left">
   <img src= "https://www.tangentia.com/wp-content/themes/twentysixteen/images/digital/partners/powerapps-logo.png" height = "50" alt= "PowerApps"
-<img width = "100">
+<img width = "150">
   <img src= "https://roommanager.com/wp-content/uploads/2023/03/Power-Automate-Logo.png" height = "50" alt= "Power Automate"
-<img width = "100">
-  
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoWidth=30)  
-  🔗 [Microsoft Power Apps](https://powerapps.microsoft.com/)  
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoWidth=30)  
-  🔗 [Power Automate](https://powerautomate.microsoft.com/)  
-![Power Pages](https://img.shields.io/badge/Power_Pages-5A4FCF?style=for-the-badge&logo=microsoft&logoWidth=30)  
-  🔗 [Power Pages](https://powerpages.microsoft.com/)
-
----
+<img width = "150">
+  <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6PqNZ4c_rChY0j997I36SZvJsaAksdVbv5Q&s" height = "200" alt= "PowerApps"
+<img width = "150"> 
+<be>
 
 ## 📈 GitHub Stats
 ![Githmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Githmi22&show_icons=true&theme=radical)
