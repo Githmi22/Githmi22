@@ -22,13 +22,10 @@
 <div align="left">
   <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"       height="50" alt="Python"/>
   <img width="12" />
-    <img src= "	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"          height="50" alt="R"/>
+    <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="R"/>
   <img width="12" />
-    <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
-" height="50" alt="SQL"/>
+    <img src= "https://brandlogos.net/wp-content/uploads/2025/03/microsoft_sql_server-logo_brandlogos.net_wykhq-512x512.png" height="50" alt="SQL"/>
   <img width="12" />
-      <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML"/>
-  <img width="12" />  
 </div>
 <be>
 
