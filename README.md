@@ -52,7 +52,7 @@
 <img width = "150">
   <img src= "https://roommanager.com/wp-content/uploads/2023/03/Power-Automate-Logo.png" height = "50" alt= "Power Automate"
 <img width = "150">
-  <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6PqNZ4c_rChY0j997I36SZvJsaAksdVbv5Q&s" height = "200" alt= "PowerApps"
+  <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6PqNZ4c_rChY0j997I36SZvJsaAksdVbv5Q&s" height = "50" alt= "PowerApps"
 <img width = "150"> 
 <be>
 
