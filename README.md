@@ -30,11 +30,11 @@
 <be>
 
 ### 
-🧰 Platforms 
+📦 Libraries & Packages
 <div align= "left">
   <img src= "https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50"       alt="Hugging Face"/>
   <img width="12" />
-  <img src= "https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg"    height="50" alt="Streanlit"/>
+  <img src= "https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png"    height="50" alt="Streanlit"/>
   <img width="12" />
   <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8fNJhry-1kuEy4XR7unXxJRaRO8vDCtI-Ig&s" height="50" alt="OpenAI"/>
   <img width="12" />
@@ -45,29 +45,14 @@
     <img src= "https://numpy.org/images/logo.svg" height="50" alt="Numpy"/>
   <img width="12" />
 
-
 ### 
-📦 Libraries & Packages  
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoWidth=30)  
-  🔗 [Hugging Face](https://huggingface.co/)  
-![LangChain](https://img.shields.io/badge/LangChain-3D3D3D?style=for-the-badge&logo=python&logoColor=white&logoWidth=30)  
-  🔗 [LangChain](https://www.langchain.com/)  
-![Transformers](https://img.shields.io/badge/Transformers-FF6F61?style=for-the-badge&logo=python&logoWidth=30)  
-  🔗 [Transformers (Hugging Face)](https://huggingface.co/docs/transformers/index)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoWidth=30)  
-  🔗 [Streamlit](https://streamlit.io/)  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoWidth=30)  
-  🔗 [OpenAI](https://platform.openai.com/)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoWidth=30)  
-  🔗 [Matplotlib](https://matplotlib.org/)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoWidth=30)  
-  🔗 [Pandas](https://pandas.pydata.org/)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoWidth=30)  
-  🔗 [NumPy](https://numpy.org/)
-
----
-
-### 🌐 Online Platforms  
+🌐 Online Platforms 
+<div align = "left">
+  <img src= "https://www.tangentia.com/wp-content/themes/twentysixteen/images/digital/partners/powerapps-logo.png" height = "50" alt= "PowerApps"
+<img width = "12">
+  <img src= "https://roommanager.com/wp-content/uploads/2023/03/Power-Automate-Logo.png" height = "50" alt= "Power Automate"
+<img width = "12">
+  
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoWidth=30)  
   🔗 [Microsoft Power Apps](https://powerapps.microsoft.com/)  
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoWidth=30)  
