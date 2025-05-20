@@ -1,5 +1,9 @@
 ## Hi there, I'm Githmi Punchihewa 👋
 
+<div align="center">
+  <img height="200" src=" https://images.app.goo.gl/rhcHdEdA9mrk1yib6 "  />
+</div>
+
 🎓 BSc in Applied Data Science Communication at KDU  
 💻 Passionate about AI, NLP, and building data-driven applications  
 🌱 Currently working on an AI Resume & Cover Letter Generator using LangChain & Streamlit  
