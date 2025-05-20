@@ -49,7 +49,7 @@
 🌐 Online Platforms 
 <div align = "left">
   <img src= "https://www.tangentia.com/wp-content/themes/twentysixteen/images/digital/partners/powerapps-logo.png" height = "50" alt= "PowerApps"
-<img width = "12">
+<img width = "20">
   <img src= "https://roommanager.com/wp-content/uploads/2023/03/Power-Automate-Logo.png" height = "50" alt= "Power Automate"
 <img width = "12">
   
