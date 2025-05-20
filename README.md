@@ -18,10 +18,14 @@
 <hr>
 <h3 align="left"> <b>🛠️ Tech Stack </b></h3>
 
-### 💻 Languages  
+## 💻 Languages  
 <div align="left">
   <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"       height="50" alt="Python"/>
   <img width="12" />
+    <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
+"       height="50" alt="Java"/>
+  <img width="12" />
+  
 </div>
 <be>
 
